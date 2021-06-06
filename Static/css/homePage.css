@@ -1,0 +1,24 @@
+#title {
+    color: wheat;
+    font-size: 10vw;
+    text-align: center;
+    backdrop-filter: blur(5px);
+}
+
+#select{
+    color: wheat;
+    font-size: 2vw;
+    text-align: center;
+}
+
+select option {
+    background: black;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+input:checked {
+    background-color: black;
+}

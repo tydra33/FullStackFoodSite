@@ -1,0 +1,19 @@
+a:visited {
+    text-decoration: none;
+}
+
+a {
+    color: wheat;
+    text-align: center;
+    font-size: 2vw;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+label {
+    size: 3vw;
+    color: wheat;
+}
